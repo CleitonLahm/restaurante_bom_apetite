@@ -17,10 +17,19 @@ body{
   color: #fff;
 }
 
-.navbar-brand{
+.navbar-toggler{
+  background-color: #ffeae6;
+}
+
+.section-tittle{
   font-family: Pacifico, cursive;
 }
 
-.navbar-toggler{
+#sobre-o-restaurante{
   background-color: #ffeae6;
+}
+
+.text-colored,
+section span{
+  color: #e15f41;
 }
